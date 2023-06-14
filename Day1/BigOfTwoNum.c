@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 int a,b;
 int biggest(a,b) {
     if (a > b) {
